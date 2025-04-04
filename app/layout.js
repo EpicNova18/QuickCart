@@ -22,6 +22,10 @@ export default function RootLayout({ children }) {
           </AppContextProvider>
         </body>
       </html>
+<<<<<<< HEAD
     </ClerkProvider>
+=======
+      </ClerkProvider>
+>>>>>>> 343e6e5cc96736f5511fa9f76ac4a20626a73396
   );
 }
